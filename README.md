@@ -24,7 +24,21 @@
 
 ###
 
-<p align="left">Hi there! <br>I'm a passionate Data Scientist who loves playing around with data to uncover meaningful patterns, solve real-world problems, and build data-driven solutions. From wrangling messy datasets to deploying predictive models, I'm always exploring new ways to turn raw data into impactful insights.<br><br>📊 Areas of interest: Machine Learning ,Deep Learning ,  NLP , Computer Vision ,Data Visualization , Statistical Modeling<br>🎯 Always curious. Always learning.</p>
+<p align="left">Hi there! <br>I'm a passionate Data Scientist who loves playing around with data to uncover meaningful patterns, solve real-world problems, and build data-driven solutions. From wrangling messy datasets to deploying predictive models, I'm always exploring new ways to turn raw data into impactful insights.<br><br>📊 
+  
+5.5 years of experience in IT, delivering data-driven solutions across defense, oil and gas, business, and healthcare sectors.
+
+Contributed to engineering and analytics projects for DRDO, supporting mission-critical defense operations.
+
+In the oil and gas industry, collaborated with Siemens to analyze turbine engine datasets and implemented machine learning models like K-Means for predictive maintenance.
+
+Improved operational efficiency through standard parts library optimization in industrial environments.
+
+Led business intelligence projects focused on regulatory compliance, market trend analysis, and reporting automation.
+
+At Johnson & Johnson, analyzed audit data to support internal compliance and operational transparency.
+  
+  Areas of interest: Machine Learning ,Deep Learning ,  NLP , Computer Vision ,Data Visualization , Statistical Modeling<br>🎯 Always curious. Always learning.</p>
 
 ###
 
