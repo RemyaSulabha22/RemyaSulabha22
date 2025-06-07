@@ -38,7 +38,7 @@
 
 * At Johnson & Johnson, analyzed audit data to support internal compliance and operational transparency.
   
-  Areas of interest: Machine Learning ,Deep Learning ,  NLP , Computer Vision ,Data Visualization , Statistical Modeling<br>🎯 Always curious. Always learning.</p>
+  Areas of interest: AI, Machine Learning ,Deep Learning ,  NLP , Computer Vision ,Data Visualization , Statistical Modeling<br>🎯 Always curious. Always learning.</p>
 
 ###
 
